@@ -1,0 +1,29 @@
+_repo: Miss-Leslie-s-Lady-s-New-Receipt-Book3rd-ed._42154
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42154-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+description: ''
+gutenberg_issued: '2013-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42154'
+  lccn: 08023646
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: "Miss Leslie's Lady's New Receipt-Book, 3rd ed.\r\nA Useful Guide for Large\
+  \ or Small Families, Containing Directions for Cooking, Preserving, Pickling..."
+url: http://www.gutenberg.org/ebooks/42154
